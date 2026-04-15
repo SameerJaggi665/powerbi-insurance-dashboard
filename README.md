@@ -18,7 +18,7 @@ The dashboard provides insights into:
 
 ## 📸 Dashboard Preview
 
-![Insurance Dashboard](Dashboard (2).png)
+![Insurance Dashboard](dashboard.png)
 
 ---
 
